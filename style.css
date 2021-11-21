@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(#668ced 0%, #9df582 50%, #e6c05a 100%)
+}
+
+.book {
+    cursor: pointer;
+}
+
+.sport hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
